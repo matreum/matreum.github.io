@@ -2,7 +2,7 @@
   "applinks": {
     "details": [
       {
-        "appIDs": ["XXXXXXXXXX.com.archer.OakleyValidator"],
+        "appIDs": ["6U29GCZLK8.com.archer.OakleyValidator"],
         "components": [
           { "/": "/auth/*", "comment": "Meta Wearables Device Access Toolkit auth callback" }
         ]
